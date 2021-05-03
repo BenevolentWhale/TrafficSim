@@ -396,15 +396,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 268256291}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 88337c2d3f2702b48b368e560c828c64, type: 3}
+  m_Script: {fileID: 11500000, guid: 484bb1eccf48320428c3875d5a0c2cf2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Roads: []
   intersections: []
   roads: []
-  Intersection: {fileID: 573546560422125016, guid: 94e6cc17ecdaf274cba5334421695ff1,
-    type: 3}
-  Road: {fileID: 2116370374568268307, guid: 09c39a05bd627254d957944e4038c75d, type: 3}
+  Intersection: {fileID: 0}
+  Road: {fileID: 0}
 --- !u!1 &412510454
 GameObject:
   m_ObjectHideFlags: 0
