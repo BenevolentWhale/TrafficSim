@@ -47,7 +47,7 @@ public class mapGenerator : MonoBehaviour
             Vector3 pos = new Vector3(0,0,0);
             Road r = (Instantiate(Road, pos, Quaternion.identity));
             r.set(intersections[s], intersections[d]);
-            //roads.Add(r);
+            roads.Add(r);
         }
     }
 
